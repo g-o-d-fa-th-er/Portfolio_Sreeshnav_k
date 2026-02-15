@@ -1,0 +1,46 @@
+﻿
+> temp_app@0.0.0 lint
+> eslint .
+
+
+E:\website\src\App.jsx
+   1:27  error  'useEffect' is defined but never used. Allowed unused vars must match /^[A-Z_]/u                  no-unused-vars
+  10:12  error  'activeSection' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  10:27  error  'setActiveSection' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\src\components\About.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\src\components\Experience.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\src\components\Hero.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\src\components\Projects.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\src\components\TechStack.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\src_legacy_cyberpunk\components\BentoGrid.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\src_legacy_cyberpunk\components\Cursor.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\src_legacy_cyberpunk\components\Experience.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\src_legacy_cyberpunk\components\Hero.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\src_legacy_cyberpunk\components\Projects.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+E:\website\vite.config.js
+  3:8  error  'tailwindcss' is defined but never used. Allowed unused vars must match /^[A-Z_]/u   no-unused-vars
+  4:8  error  'autoprefixer' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+Γ£û 15 problems (15 errors, 0 warnings)
+
